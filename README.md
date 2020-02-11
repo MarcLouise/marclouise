@@ -1,2 +1,2 @@
 # marclouise
-Only for immersion purpose.
+For immersion purpose only.
